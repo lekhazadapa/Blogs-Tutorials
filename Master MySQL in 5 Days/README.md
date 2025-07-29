@@ -1,0 +1,1 @@
+Here you will find my journey towards MySQL, from a beginner to an advanced user, and my projects. The topics I will cover range from beginner to advanced level as the days increase. You can follow the days as "Day 01", "Day 02", and so on in the commit message.
